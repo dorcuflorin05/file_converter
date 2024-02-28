@@ -1,0 +1,5 @@
+env/
+venv/
+dj-env
+.idea/
+.DS_Store/
